@@ -1,8 +1,8 @@
-## Oie, sou Dante Alighieri.
+## Hi, I'm Dante Alighieri.
 
-- 💻 Hoje trabalho com back-end
-- 📜 Estudando Java Script
-- ⏳livre para trabalhos
+- 💻 Working with back-end
+- 📜 Studying to be a Full Stack
+- ⏳ Free for jobs
 
 <div>
   <a href="https://github.com/dantealighierii">
