@@ -1,6 +1,6 @@
-## Hi, I'm Dante Alighieri.
+## Hi, I'm Celso Emílio.
 
-- 💻 Working with back-end
+- 💻 Working to be a back-end
 - 📜 Studying to be a Full Stack
 - ⏳ Free for jobs
 
